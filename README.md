@@ -1,1 +1,1 @@
-Es una agenda básica de contactos realizada en Pseudocódigo.(Validación y correcciòn proximamente)
+Este es un espacio para subir mis prácticas.
