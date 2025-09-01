@@ -1,1 +1,1 @@
-Es una agenda básica de contactos realizada en Pseudocódigo.
+Es una agenda básica de contactos realizada en Pseudocódigo.(Validación y correcciòn proximamente)
